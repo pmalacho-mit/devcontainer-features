@@ -1,0 +1,10 @@
+{
+    "name": "git-subrepo",
+    "id": "git-subrepo",
+    "version": "1.0.0",
+    "description": "A feature to install git-subrepo",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
