@@ -1,7 +1,7 @@
 {
     "name": "git-subrepo",
     "id": "git-subrepo",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A feature to install git-subrepo",
     "options": {},
     "installsAfter": [
