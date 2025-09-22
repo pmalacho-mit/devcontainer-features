@@ -7,7 +7,7 @@ A feature to install git-subrepo
 
 ```json
 "features": {
-    "ghcr.io/pmalacho-mit/devcontainer-features/git-subrepo:1": {}
+    "ghcr.io/pmalacho-mit/devcontainer-features/git-subrepo:latest": {}
 }
 ```
 
