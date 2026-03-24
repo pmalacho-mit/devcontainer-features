@@ -1,0 +1,10 @@
+{
+    "name": "bubblewrap",
+    "id": "bubblewrap",
+    "version": "1.0.0",
+    "description": "A feature to install bubblewrap",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
